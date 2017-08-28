@@ -1,0 +1,4 @@
+# Hello World extension
+comment = 'Hello World'
+default_version = '0.0.1'
+relocatable = true
